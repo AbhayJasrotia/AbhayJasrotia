@@ -1,55 +1,49 @@
-# 🌟 Hi there, I'm **Abhay Jasrotia**!
+# 👋 Hey, I'm **Abhay Jasrotia**
 
-### 🚀 Developer • Builder • Learner
-Welcome to my GitHub profile! I’m passionate about creating impactful software, exploring new technologies, and constantly improving my craft.
+### 🚀 Developer • Tech Explorer • Problem Solver
+
+I build full-stack applications, explore AI & automation, and love turning ideas into polished software.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` · `C` · `Python` · `C++` · `Shell`
+`JavaScript` · `C` · `C++` · `Python` · `Shell`
 
-**Frameworks & Libraries:**  
+**Frameworks:**  
 `React` · `Node.js` · `Express` · `FastAPI`
 
-**Tools & Platforms:**  
-`Git` · `Docker` · `Linux` · `Postman` · `Wireshark`  
-`Nmap`
+**Tools:**  
+`Git` · `Docker` · `Linux` · `Postman` · `Nmap` · `Wireshark`
 
 ---
 
-## 📘 What I’m Working On
-- ⚙️ Building **full-stack applications**
-- 🤖 Exploring **AI, LLMs, and automation**
-- 🧪 Improving **testing & scalable system design**
+## 🔥 Projects
+
+### • **AI-Powered Crowd Surveillance**
+Real-time crowd detection & tracking using **YOLOv8 + SORT**.
+
+### • **Keylogger**
+A simple Python-based keystroke logger for monitoring & learning.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhayjasrotia&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🧩 Featured Projects
-- **AI-Powered-Crowd-Surveillance** — This project implements a real-time Crowd Detection and Tracking System using the YOLOv8 object detection model and the SORT tracking algorithm  
-- **Keylogger** — This project is a basic key logger written in Python. It allows you to capture keyboard events and save them in log files. It can be used for various purposes, such as monitoring user activity. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayjasrotia&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
-- **Portfolio:** https://abhayjasrotia.github.io/Abhay-Jasrotia-Portfolio/
-- **LinkedIn:** https://www.linkedin.com/in/abhay-jasrotia-907487236/ 
-- **Twitter/X:** ...........  
-- **Email:** abhayjasrotia124@gmail.com
+## 🌐 Connect
+
+**Portfolio:** https://abhayjasrotia.github.io/  
+**LinkedIn:** https://www.linkedin.com/in/abhay-jasrotia-907487236/  
+**Email:** abhayjasrotia124@gmail.com  
 
 ---
 
-## ✨ Fun Facts
-- 💡 Love exploring new technologies  
-- 🎧 Always coding with music  
-- 📚 Lifelong learner  
-
+## ✨ Fun Bits
+💡 Always learning · 🎧 Coding with music · 🔍 Love exploring new tech
