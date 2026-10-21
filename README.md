@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Abhay Jasrotia, system administrator. A lone wanderer in a straw hat stands on a ridge beneath a pale sun as crows scatter over misty mountains." width="100%" />
+  <img src="banner.jpg" alt="Abhay Jasrotia, system administrator. A lone wanderer in a straw hat stands on a ridge beneath a pale sun as crows scatter over misty mountains." width="100%" />
 </p>
 
 <br />
@@ -15,7 +15,7 @@
 </p>
 
 <br /><br />
-<p align="center"><img src="assets/divider.png" alt="" width="60%" /></p>
+<p align="center"><img src="divider.png" alt="" width="60%" /></p>
 <br />
 
 <h3 align="center">道 &nbsp;Tools</h3>
@@ -36,7 +36,7 @@
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.png" alt="" width="60%" /></p>
+<p align="center"><img src="divider.png" alt="" width="60%" /></p>
 <br />
 
 <h3 align="center">道 &nbsp;Practice</h3>
@@ -50,7 +50,7 @@
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.png" alt="" width="60%" /></p>
+<p align="center"><img src="divider.png" alt="" width="60%" /></p>
 <br />
 
 <h3 align="center">道 &nbsp;Work</h3>
@@ -61,7 +61,7 @@
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.png" alt="" width="60%" /></p>
+<p align="center"><img src="divider.png" alt="" width="60%" /></p>
 <br />
 
 <h3 align="center">道 &nbsp;Contact</h3>
@@ -76,5 +76,5 @@
 <p align="center"><sub><i>Discipline beats motivation.</i></sub></p>
 
 <p align="center">
-  <img src="assets/footer.jpg" alt="A katana planted in a grassy mound at dusk while crows circle over misty mountains." width="100%" />
+  <img src="footer.jpg" alt="A katana planted in a grassy mound at dusk while crows circle over misty mountains." width="100%" />
 </p>
