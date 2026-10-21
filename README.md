@@ -54,15 +54,6 @@
   My selected work is in the pinned repositories above.
 </p>
 
-<!--
-  To list a project here, copy this block, then replace the repo name and the description:
-
-<p align="center">
-  <a href="https://github.com/SuperAdmin777/REPO-NAME"><b>REPO-NAME</b></a><br />
-  One honest line about what it does.
-</p>
--->
-
 <br />
 <p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
 <br />
@@ -73,11 +64,6 @@
   Need a hand with Linux servers, automation or a quick script?<br />
   Message me on <a href="https://www.linkedin.com/in/abhay-jasrotia-907487236/">LinkedIn</a>.
 </p>
-
-<!--
-  Add other links only when they point to your real profiles, for example:
-  <a href="https://leetcode.com/u/YOUR-NAME/">LeetCode</a> &middot; <a href="https://t.me/YOUR-NAME">Telegram</a>
--->
 
 <br />
 
