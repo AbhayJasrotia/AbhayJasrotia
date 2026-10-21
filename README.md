@@ -1,40 +1,45 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Abhay Jasrotia, system administrator. A lone wanderer in a straw hat stands on a ridge beneath a pale sun while crows scatter over misty mountains." width="100%" />
+  <img src="assets/banner.svg" alt="Abhay Jasrotia, system administrator. A lone wanderer in a straw hat stands on a ridge beneath a pale sun as crows scatter over misty mountains." width="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  I keep Linux servers running and replace repetitive work with scripts.<br />
-  After hours I build full-stack projects and study how AI can drive automation.
-</p>
-
-<br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
-<br />
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-  <b>Core</b><br />
-  Linux, Bash, Python, Docker, Git
+  I keep Linux servers running<br />
+  and replace repetitive work with scripts.
 </p>
 
 <p align="center">
-  <b>Development</b><br />
-  JavaScript, React, Node.js, Express, FastAPI, C, C++
+  <sub>After hours I build full-stack projects<br />
+  and study how AI can drive automation.</sub>
+</p>
+
+<br /><br />
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
+<br />
+
+<h3 align="center">道 &nbsp;Tools</h3>
+
+<p align="center">
+  <sub><b>CORE</b></sub><br />
+  Linux &nbsp;·&nbsp; Bash &nbsp;·&nbsp; Python &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Git
 </p>
 
 <p align="center">
-  <b>Network</b><br />
-  Wireshark, Postman, Nmap
+  <sub><b>BUILD</b></sub><br />
+  JavaScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; C &nbsp;·&nbsp; C++
+</p>
+
+<p align="center">
+  <sub><b>NETWORK</b></sub><br />
+  Wireshark &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Nmap
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
 <br />
 
-<h3 align="center">Now</h3>
+<h3 align="center">道 &nbsp;Practice</h3>
 
 <p align="center">
   Automating infrastructure tasks with Bash and Python<br />
@@ -45,48 +50,28 @@
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
 <br />
 
-<h3 align="center">GitHub</h3>
-
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SuperAdmin777&show_icons=true&hide_border=true&theme=transparent&title_color=888888&text_color=888888&icon_color=888888" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperAdmin777&layout=compact&hide_border=true&theme=transparent&title_color=888888&text_color=888888" />
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=SuperAdmin777&hide_border=true&background=00000000&stroke=888888&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" />
-</p>
-
-<br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
-<br />
-
-<h3 align="center">Work</h3>
+<h3 align="center">道 &nbsp;Work</h3>
 
 <p align="center">
   My selected work is in the pinned repositories above.<br />
-  Everything else lives on my <a href="https://github.com/SuperAdmin777?tab=repositories">repositories page</a>.
+  <sub>The rest is in <a href="https://github.com/SuperAdmin777?tab=repositories">all repositories</a>.</sub>
 </p>
 
 <br />
-<p align="center"><img src="assets/divider.svg" alt="" width="70%" /></p>
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
 <br />
 
-<h3 align="center">Contact</h3>
+<h3 align="center">道 &nbsp;Contact</h3>
 
 <p align="center">
   Need a hand with Linux servers, automation or a quick script?<br />
-  Message me on <a href="https://www.linkedin.com/in/abhay-jasrotia-907487236/">LinkedIn</a>.
+  Write to me on <a href="https://www.linkedin.com/in/abhay-jasrotia-907487236/">LinkedIn</a>.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhay-jasrotia-907487236/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhay_Jasrotia-555555?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SuperAdmin777"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-SuperAdmin777-555555?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-<br />
+<br /><br />
 
 <p align="center"><sub><i>Discipline beats motivation.</i></sub></p>
 
